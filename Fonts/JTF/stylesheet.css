@@ -1,0 +1,12 @@
+/* Download by online web fonts (http://www.onlinewebfonts.com) on October 04, 2020 */
+
+@font-face {
+    font-family: 'Just In The Firestorm';
+    font-weight: normal;
+    font-style: normal;
+    src: url('just-in-the-firestorm.eot');
+    src: url('just-in-the-firestorm.eot?#iefix') format('embedded-opentype'),
+         url('just-in-the-firestorm.woff') format('woff'),
+         url('just-in-the-firestorm.ttf') format('truetype'),
+         url('just-in-the-firestorm.svg#Just In The Firestorm') format('svg'); 
+}

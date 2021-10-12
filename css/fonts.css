@@ -1,0 +1,121 @@
+/*
+ * American Captain Patrius 02 FRE
+================================================================================ */
+
+@font-face {
+    font-family: 'American Captain Patrius 02 FRE';
+    font-weight: normal;
+    font-style: normal;  
+    src: url('../Fonts/ACP/American-Captain-Patrius-02-FRE.eot');
+    src: url('../Fonts/ACP/American-Captain-Patrius-02-FRE.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/ACP/American-Captain-Patrius-02-FRE.woff') format('woff'),
+         url('../Fonts/ACP/American-Captain-Patrius-02-FRE.ttf') format('truetype'), 
+         url('../Fonts/ACP/American-Captain-Patrius-02-FRE.svg#American Captain Patrius 02 FRE') format('svg');
+}
+
+/*
+ * Just in The Firestorm
+================================================================================ */
+
+@font-face {
+    font-family: 'Just In The Firestorm';
+    font-weight: normal;
+    font-style: normal;  
+    src: url('../Fonts/JTF/just-in-the-firestorm.eot');
+    src: url('../Fonts/JTF/just-in-the-firestorm.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/JTF/just-in-the-firestorm.woff') format('woff'),
+         url('../Fonts/JTF/just-in-the-firestorm.ttf') format('truetype'),
+         url('../Fonts/JTF/just-in-the-firestorm.svg#Just In The Firestorm') format('svg'); 
+}
+
+/*
+ * Lora
+================================================================================ */
+@font-face {
+    font-family: 'lora-bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Lora/lora-bold-webfont.eot');
+    src: url('../Fonts/Lora/lora-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Lora/lora-bold-webfont.woff') format('woff'),
+         url('../Fonts/Lora/lora-bold-webfont.ttf') format('truetype'),
+         url('../Fonts/Lora/lora-bold-webfont.svg#lorabold') format('svg');
+}
+
+@font-face {
+    font-family: 'lora-bold-italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Lora/lora-bolditalic-webfont.eot');
+    src: url('../Fonts/Lora/lora-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Lora/lora-bolditalic-webfont.woff') format('woff'),
+         url('../Fonts/Lora/lora-bolditalic-webfont.ttf') format('truetype'),
+         url('../Fonts/Lora/lora-bolditalic-webfont.svg#lorabold_italic') format('svg');
+}
+
+@font-face {
+    font-family: 'lora-italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Lora/lora-italic-webfont.eot');
+    src: url('../Fonts/Lora/lora-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Lora/lora-italic-webfont.woff') format('woff'),
+         url('../Fonts/Lora/lora-italic-webfont.ttf') format('truetype'),
+         url('../Fonts/Lora/lora-italic-webfont.svg#loraitalic') format('svg');
+}
+
+@font-face {
+    font-family: 'lora-regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Lora/lora-regular-webfont.eot');
+    src: url('../Fonts/Lora/lora-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Lora/lora-regular-webfont.woff') format('woff'),
+         url('../Fonts/Lora/lora-regular-webfont.ttf') format('truetype'),
+         url('../Fonts/Lora/lora-regular-webfont.svg#loraregular') format('svg');
+}
+
+/*
+ * Stark
+================================================================================ */
+@font-face {
+    font-family: 'Stark';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark.otf');
+}
+
+@font-face {
+    font-family: 'Stark-Bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark-Bold.otf');
+}
+
+@font-face {
+    font-family: 'Stark-Bold-Italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark-Bold-Italic.otf');
+}
+
+@font-face {
+    font-family: 'Stark-Hollow';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark-Hollow.otf');
+}
+
+@font-face {
+    font-family: 'Stark-Hollow-Italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark-Hollow-Italic.otf');
+}
+
+@font-face {
+    font-family: 'Stark-Italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Stark/Stark-Italic.otf');
+}

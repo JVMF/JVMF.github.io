@@ -1,0 +1,12 @@
+/* Download by online web fonts (http://www.onlinewebfonts.com) on October 04, 2020 */
+
+@font-face {
+    font-family: 'American Captain Patrius 02 FRE';
+    font-weight: normal;
+    font-style: normal;  
+    src: url('American-Captain-Patrius-02-FRE.eot');
+    src: url('American-Captain-Patrius-02-FRE.eot?#iefix') format('embedded-opentype'),
+         url('American-Captain-Patrius-02-FRE.woff') format('woff'),
+         url('American-Captain-Patrius-02-FRE.ttf') format('truetype'), 
+         url('American-Captain-Patrius-02-FRE.svg#American Captain Patrius 02 FRE') format('svg');
+}
