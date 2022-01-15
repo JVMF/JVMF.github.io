@@ -703,7 +703,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #001133;
+	background: #00091b;
 	color: #FFFFFF;
 }
 .button.button-primary:hover,
@@ -717,7 +717,7 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-	background: #001133; /* Fundo do "CV */
+	background: #00091b; /* Fundo do "CV */
 }
 button.full-width, .button.full-width {
 	width: 100%;
@@ -735,7 +735,7 @@ button.large, .button.large {
 }
 button.stroke, .button.stroke {
 	background: transparent !important;
-	border: 3px solid #150E1C; /* Borda do "Fale Comigo" sem selecionar */
+	border: 3px solid #00091b; /* Borda do "Fale Comigo" sem selecionar */
 	line-height: 4.8rem;
 }
 button.stroke.medium, .button.stroke.medium {
