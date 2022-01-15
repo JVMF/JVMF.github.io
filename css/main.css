@@ -1693,10 +1693,10 @@ header .logo a {
 	height: 4.8rem;
 	width: 4.8rem;
 	line-height: 4.8rem;
-	background: #150E1C; /* BOLINHA DA TIMELINE -- ROXO ESCURO: #150E1C;   AZUL CLARO: #2a6eae */
+	background: #001133; /* COR: bolinha da timeline */
 	border-radius: 50%;
 	text-align: center;
-	color: #ffffff; /* COR DO ICONE DA TIMELINE */
+	color: #ffffff; /* COR: icone da timeline */
 	position: absolute;
 	left: 35%;
 	top: .9rem;
