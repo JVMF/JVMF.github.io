@@ -69,7 +69,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: rgb(0, 4, 12); /*Barra de baixo */
+	background: #00091b; /*Barra de baixo */
 	font-family: "lora-regular", sans-serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -457,7 +457,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: rgb(0, 4, 12);
+	background: #00091b;
 	z-index: 800;
 	height: 100%;
 	width: 100%;
@@ -1311,7 +1311,7 @@ header .logo a {
  */
  
 #intro {
-	background: rgb(0, 4, 12) url(../Images/Intro.gif) no-repeat center bottom;
+	background: #00091b url(../Images/Intro.gif) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2725,7 +2725,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: rgb(0, 4, 12);
+	background: #00091b;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
