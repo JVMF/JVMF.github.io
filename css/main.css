@@ -69,7 +69,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #150E1C; /*Barra de baixo */
+	background: rgb(0, 4, 12); /*Barra de baixo */
 	font-family: "lora-regular", sans-serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -457,7 +457,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #150E1C;
+	background: rgb(0, 4, 12);
 	z-index: 800;
 	height: 100%;
 	width: 100%;
@@ -1111,7 +1111,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #150E1C; /* Barra do topo */
+	background: #00153f00; /* Barra do topo */
 	min-width: 162px;
 	min-height: 55px;
 	position: absolute;
@@ -1311,7 +1311,7 @@ header .logo a {
  */
  
 #intro {
-	background: #150E1C url(../Images/Intro.gif) no-repeat center bottom;
+	background: rgb(0, 4, 12) url(../Images/Intro.gif) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1329,7 +1329,7 @@ header .logo a {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #1c0f0e2d;
+	background: #00091b79;
 	opacity: .85;
 }
 
@@ -1572,7 +1572,7 @@ header .logo a {
 }
 .about-content .info-list li strong {
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
-	color: #150E1C; 
+	color: #00153f; 
 	text-transform: uppercase;
 	letter-spacing: .2rem;
 	font-size: 1.5rem;
@@ -2397,7 +2397,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #150E1C;
+	background: rgb(0, 4, 12);
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
@@ -2725,7 +2725,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #150E1C;
+	background: rgb(0, 4, 12);
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
