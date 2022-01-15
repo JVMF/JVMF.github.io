@@ -717,7 +717,7 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-	background: #00091b; /* Fundo do "CV */
+	background: #2A75AE; /* Fundo do "CV */
 }
 button.full-width, .button.full-width {
 	width: 100%;
