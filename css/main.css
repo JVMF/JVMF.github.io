@@ -338,7 +338,7 @@ th, td {
 	border-bottom: 1px solid #E8E8E8;
 }
 th {
-	color: #150E1C;
+	color: #001133;
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
 }
 td {
@@ -670,7 +670,7 @@ input[type="button"] {
 	padding: 0 3rem;
 	margin: 0 .3rem 1.2rem 0;
 	background: #d8d8d8;
-	color: #150E1C; /* Fale Comigo */
+	color: #001133; /* Fale Comigo */
 	text-decoration: none;
 	cursor: pointer;
 	text-align: center;
@@ -703,7 +703,7 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-	background: #150E1C;
+	background: #001133;
 	color: #FFFFFF;
 }
 .button.button-primary:hover,
@@ -717,7 +717,7 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-	background: #2A75AE; /* Fundo do "CV */
+	background: #001133; /* Fundo do "CV */
 }
 button.full-width, .button.full-width {
 	width: 100%;
@@ -984,7 +984,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: white;
 	font-size: 1.1rem;
 	line-height: 1;
-	background: #001133; /* Cor do Balãozinho */
+	background: #001133; /* COR: Balãozinho */
 	padding: .6rem .6rem;
 	border-radius: 3px;
 }
@@ -995,7 +995,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-left: -5px;
 	border-right: 5px solid transparent;
 	border-left: 5px solid transparent;
-	border-top: 5px solid #001133; /* Cor do Balãozinho */
+	border-top: 5px solid #001133; /* COR: Balãozinho */
 	content: "";
 }
 
@@ -1044,7 +1044,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h1 {
 	font-family: "American Captain Patrius 02 FRE", serif;
 	font-size: 3.6rem;
-	color: #001133; /* Minhas Credenciais */
+	color: #001133; /* COR: Minhas Credenciais */
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
 }
