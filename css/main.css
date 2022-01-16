@@ -1345,10 +1345,10 @@ header .logo a {
 	color: #FFFFFF;
 	font-family: "Just in the Firestorm", sans-serif;
 	font-size: 4.1rem; 									
-	line-height: 1.071;
+	line-height: 1.1;
 	max-width: 9000px;
-	margin-top: 0;
-	margin-bottom: .6rem;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
 	margin-left: auto;
 	margin-right: auto;
 	letter-spacing: .3rem;
