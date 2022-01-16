@@ -2725,8 +2725,8 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #00091b;
-	color: #FFFFFF;
+	background: #00091b00;
+	color: #2A75AE;
 	text-align: center;
 	text-transform: uppercase;
 	-moz-transition: all 0.3s ease-in-out;
@@ -2739,8 +2739,9 @@ footer .copyright span:last-child::after {
 	font-size: 1.6rem;
 	line-height: inherit;
 }
+/*
 #go-top a:hover {
 	background: #2A75AE;
-}
-
+} 
+*/
 /*# sourceMappingURL=main.css.map */
