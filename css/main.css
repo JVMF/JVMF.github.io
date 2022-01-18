@@ -1268,12 +1268,12 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #00091b; /* Cor quando selecionado */
+	color: #00091b; /* Cor: cursor ao ser selecionado */
 	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
-	color: #00091b; /* Cor cursor atual */
+	color: #00091b; /* Cor: cursor atualmente selecionado */
 }
 
 /**
