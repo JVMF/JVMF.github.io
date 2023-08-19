@@ -83,14 +83,14 @@
     font-family: 'raj-bold';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Bold-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-light';
     font-weight: normal;
     font-style: normal;
-    url('../Fonts/Rajdhani/Rajdhani-Light-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Light.ttf') format('truetype');
 }
 
 @font-face {
