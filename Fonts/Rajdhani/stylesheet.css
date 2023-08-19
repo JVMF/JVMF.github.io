@@ -2,21 +2,21 @@
     font-family: 'raj-bold';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Bold-webfont.ttf') format('truetype');
+    src: url('Rajdhani-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-light';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Light.ttf') format('truetype');
+    src: url('Rajdhani-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-medium';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Medium.ttf') format('truetype');
+    src: url('Rajdhani-Medium.ttf') format('truetype');
 
 }
 
@@ -24,12 +24,12 @@
     font-family: 'raj-regular';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Regular.ttf') format('truetype');
+    src: url('Rajdhani-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-semibold';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-SemiBold.ttf') format('truetype');
+    src: url('Rajdhani-SemiBold.ttf') format('truetype');
 }
