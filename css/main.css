@@ -70,7 +70,7 @@ html, body {
 }
 body {
 	background: #00091b; /*Barra de baixo */
-	font-family: "rajdhani-light", sans-serif;
+	font-family: "raj-light", sans-serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
 	color: #646464; /*  do Corpo 6e6e6e */
@@ -160,7 +160,7 @@ p img {
 	margin: 0;
 }
 p.lead {
-	font-family: "rajdhani-light", sans-serif;
+	font-family: "raj-light", sans-serif;
 	font-size: 2rem;
 	line-height: 1.8;
 	color: #150E1C; /* TEXTO DO PORTFÓLIO */
@@ -177,10 +177,10 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "rajdhani-light";
+	font-family: "raj-light";
 }
 strong, b {
-	font-family: "rajdhani-bold";
+	font-family: "raj-bold";
 }
 small {
 	font-size: 1.2rem;
@@ -330,7 +330,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: "rajdhani-light", serif;
+	font-family: "raj-light", sans-serif;
 }
 th, td {
 	padding: 1.5rem 3rem;
@@ -1950,7 +1950,7 @@ header .logo a {
 }
 .popup-modal .description-box h3{
 	position: relative;
-	font-family: "rajdhani-light", sans-serif;
+	font-family: "raj-light", sans-serif;
 	font-size: 1.4rem;
 	line-height: 2.5rem;
 	color: #17324bcc; /*  da caixa do portfólio*/
