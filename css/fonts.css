@@ -76,7 +76,67 @@
 }
 
 /*
- * Stark
+
+ * Rajdhani
+================================================================================ */
+@font-face {
+    font-family: 'rajdhani-bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Rajdhani/rajdhani-bold-webfont.eot');
+    src: url('../Fonts/Rajdhani/rajdhani-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Rajdhani/rajdhani-bold-webfont.woff') format('woff'),
+         url('../Fonts/Rajdhani/rajdhani-bold-webfont.ttf') format('truetype'),
+         url('../Fonts/Rajdhani/rajdhani-bold-webfont.svg#rajdhanibold') format('svg');
+}
+
+@font-face {
+    font-family: 'rajdhani-light';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Rajdhani/rajdhani-light-webfont.eot');
+    src: url('../Fonts/Rajdhani/rajdhani-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Rajdhani/rajdhani-light-webfont.woff') format('woff'),
+         url('../Fonts/Rajdhani/rajdhani-light-webfont.ttf') format('truetype'),
+         url('../Fonts/Rajdhani/rajdhani-light-webfont.svg#rajdhanilight') format('svg');
+}
+
+@font-face {
+    font-family: 'rajdhani-medium';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Rajdhani/rajdhani-medium-webfont.eot');
+    src: url('../Fonts/Rajdhani/rajdhani-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Rajdhani/rajdhani-medium-webfont.woff') format('woff'),
+         url('../Fonts/Rajdhani/rajdhani-medium-webfont.ttf') format('truetype'),
+         url('../Fonts/Rajdhani/rajdhani-medium-webfont.svg#rajdhanimedium') format('svg');
+}
+
+@font-face {
+    font-family: 'rajdhani-regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Rajdhani/rajdhani-regular-webfont.eot');
+    src: url('../Fonts/Rajdhani/rajdhani-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Rajdhani/rajdhani-regular-webfont.woff') format('woff'),
+         url('../Fonts/Rajdhani/rajdhani-regular-webfont.ttf') format('truetype'),
+         url('../Fonts/Rajdhani/rajdhani-regular-webfont.svg#rajdhaniregular') format('svg');
+}
+
+@font-face {
+    font-family: 'rajdhani-semibold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../Fonts/Rajdhani/rajdhani-semibold-webfont.eot');
+    src: url('../Fonts/Rajdhani/rajdhani-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/Rajdhani/rajdhani-semibold-webfont.woff') format('woff'),
+         url('../Fonts/Rajdhani/rajdhani-semibold-webfont.ttf') format('truetype'),
+         url('../Fonts/Rajdhani/rajdhani-semibold-webfont.svg#rajdhanisemibold') format('svg');
+}
+/*
+
+
+* Stark
 ================================================================================ */
 @font-face {
     font-family: 'Stark';
