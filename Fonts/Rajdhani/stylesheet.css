@@ -9,14 +9,14 @@
     font-family: 'raj-light';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Light-webfont.ttf') format('truetype');
+    url('Rajdhani-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-medium';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Medium-webfont.ttf') format('truetype');
+    url('Rajdhani-Medium.ttf') format('truetype');
 
 }
 
@@ -24,12 +24,12 @@
     font-family: 'raj-regular';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-Regular-webfont.ttf') format('truetype');
+    url('Rajdhani-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-semibold';
     font-weight: normal;
     font-style: normal;
-    url('Rajdhani-SemiBold-webfont.ttf') format('truetype');
+    url('Rajdhani-SemiBold.ttf') format('truetype');
 }
