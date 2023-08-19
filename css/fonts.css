@@ -97,21 +97,21 @@
     font-family: 'raj-medium';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Medium-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Medium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-regular';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Regular-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'raj-semibold';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-SemiBold-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-SemiBold.ttf') format('truetype');
 }
 /*
 
