@@ -80,38 +80,38 @@
  * Rajdhani
 ================================================================================ */
 @font-face {
-    font-family: 'rajdhani-bold';
+    font-family: 'raj-bold';
     font-weight: normal;
     font-style: normal;
-    url('../Fonts/Rajdhani/Rajdhani-Bold-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Bold-webfont.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'rajdhani-light';
+    font-family: 'raj-light';
     font-weight: normal;
     font-style: normal;
     url('../Fonts/Rajdhani/Rajdhani-Light-webfont.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'rajdhani-medium';
+    font-family: 'raj-medium';
     font-weight: normal;
     font-style: normal;
-    url('../Fonts/Rajdhani/Rajdhani-Medium-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Medium-webfont.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'rajdhani-regular';
+    font-family: 'raj-regular';
     font-weight: normal;
     font-style: normal;
-    url('../Fonts/Rajdhani/Rajdhani-Regular-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-Regular-webfont.ttf') format('truetype');
 }
 
 @font-face {
-    font-family: 'rajdhani-semibold';
+    font-family: 'raj-semibold';
     font-weight: normal;
     font-style: normal;
-    url('../Fonts/Rajdhani/Rajdhani-SemiBold-webfont.ttf') format('truetype');
+    src: url('../Fonts/Rajdhani/Rajdhani-SemiBold-webfont.ttf') format('truetype');
 }
 /*
 
