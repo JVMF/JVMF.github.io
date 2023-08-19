@@ -160,7 +160,7 @@ p img {
 	margin: 0;
 }
 p.lead {
-	font-family: "lora-regular", serif;
+	font-family: "rajdhani-light", serif;
 	font-size: 2rem;
 	line-height: 1.8;
 	color: #150E1C; /* TEXTO DO PORTFÓLIO */
@@ -177,10 +177,10 @@ em, i, strong, b {
 	font-weight: normal;
 }
 em, i {
-	font-family: "lora-italic", serif;
+	font-family: "rajdhani-light", serif;
 }
 strong, b {
-	font-family: "lora-bold", serif;
+	font-family: "rajdhani-bold", serif;
 }
 small {
 	font-size: 1.2rem;
@@ -330,7 +330,7 @@ table {
 	border-width: 0;
 	width: 100%;
 	max-width: 100%;
-	font-family: "lora-regular", sans-serif;
+	font-family: "rajdhani-light", sans-serif;
 }
 th, td {
 	padding: 1.5rem 3rem;
