@@ -2,33 +2,21 @@
     font-family: 'rajdhanibold';
     font-weight: normal;
     font-style: normal;
-    src: url('rajdhani-bold-webfont.eot');
-    src: url('rajdhani-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('rajdhani-bold-webfont.woff') format('woff'),
-         url('rajdhani-bold-webfont.ttf') format('truetype'),
-         url('rajdhani-bold-webfont.svg#rajdhanibold') format('svg');
+    url('Rajdhani-Bold-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhanilight';
     font-weight: normal;
     font-style: normal;
-    src: url('rajdhani-light-webfont.eot');
-    src: url('rajdhani-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('rajdhani-light-webfont.woff') format('woff'),
-         url('rajdhani-light-webfont.ttf') format('truetype'),
-         url('rajdhani-light-webfont.svg#rajdhanilight') format('svg');
+    url('Rajdhani-Light-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhanimedium';
     font-weight: normal;
     font-style: normal;
-    src: url('rajdhani-medium-webfont.eot');
-    src: url('rajdhani-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('rajdhani-medium-webfont.woff') format('woff'),
-         url('rajdhani-imedium-webfont.ttf') format('truetype'),
-         url('rajdhani-medium-webfont.svg#rajdhanimedium') format('svg');
+    url('Rajdhani-Medium-webfont.ttf') format('truetype');
 
 }
 
@@ -36,20 +24,12 @@
     font-family: 'rajdhaniregular';
     font-weight: normal;
     font-style: normal;
-    src: url('rajdhani-regular-webfont.eot');
-    src: url('rajdhani-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('rajdhani-regular-webfont.woff') format('woff'),
-         url('rajdhani-regular-webfont.ttf') format('truetype'),
-         url('rajdhani-regular-webfont.svg#rajdhaniregular') format('svg');
+    url('Rajdhani-Regular-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhanisemibold';
     font-weight: normal;
     font-style: normal;
-    src: url('rajdhani-semibold-webfont.eot');
-    src: url('rajdhani-seminold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('rajdhani-semibold-webfont.woff') format('woff'),
-         url('rajdhani-semibold-webfont.ttf') format('truetype'),
-         url('rajdhani-semibold-webfont.svg#rajdhanisemibold') format('svg');
+    url('Rajdhani-SemiBold-webfont.ttf') format('truetype');
 }
