@@ -83,35 +83,35 @@
     font-family: 'rajdhani-bold';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Bold-webfont.ttf') format('truetype');
+    url('../Fonts/Rajdhani/Rajdhani-Bold-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhani-light';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Light-webfont.ttf') format('truetype');
+    url('../Fonts/Rajdhani/Rajdhani-Light-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhani-medium';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Medium-webfont.ttf') format('truetype');
+    url('../Fonts/Rajdhani/Rajdhani-Medium-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhani-regular';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-Regular-webfont.ttf') format('truetype');
+    url('../Fonts/Rajdhani/Rajdhani-Regular-webfont.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'rajdhani-semibold';
     font-weight: normal;
     font-style: normal;
-    src: url('../Fonts/Rajdhani/Rajdhani-SemiBold-webfont.ttf') format('truetype');
+    url('../Fonts/Rajdhani/Rajdhani-SemiBold-webfont.ttf') format('truetype');
 }
 /*
 
