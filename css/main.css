@@ -964,7 +964,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	left: 0;
 	top: -3rem;
 	font-family: "raj-regular", sans-serif;
-	color: #00050f; 
+	color: #00030a; 
 	/* text-transform: uppercase; */
 	/* letter-spacing: .1rem; */
 	font-size: 2.0rem;
@@ -1261,7 +1261,7 @@ header .logo a {
 }
 .main-navigation li a {
 	display: block;
-	color: #2A75AE; /* COR: Letra do menu */
+	color: #00030a; /* 2024 */
 	width: auto;
 	padding: 15px 0;
 	line-height: 16px;
