@@ -162,8 +162,8 @@ p img {
 p.lead {
 	font-family: "raj-regular", sans-serif;
 	font-size: 2rem;
-	line-height: 1.8;
-	color: #150E1C; /* TEXTO DO PORTFÓLIO */
+	line-height: 2.0;
+	color: #00050f; /* TEXTO DO PORTFÓLIO */
 }
 @media only screen and (max-width:768px) {
 	p.lead {
