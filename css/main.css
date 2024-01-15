@@ -965,8 +965,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	top: -3rem;
 	font-family: "raj-regular", sans-serif; /* Mudanca2024*/
 	color: #00050f; 
-	text-transform: uppercase;
-	letter-spacing: .2rem;
+	/* text-transform: uppercase; */
+	letter-spacing: .1rem;
 	font-size: 1.5rem;
 	line-height: 2.4rem;
 }
