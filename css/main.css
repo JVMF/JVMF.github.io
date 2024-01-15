@@ -963,7 +963,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	position: absolute;
 	left: 0;
 	top: -3rem;
-	font-family: "American Captain Patrius 02 FRE", sans-serif;
+	font-family: "raj-regular", sans-serif; /* Mudanca2024*/
 	color: #001133; 
 	text-transform: uppercase;
 	letter-spacing: .2rem;
