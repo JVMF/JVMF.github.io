@@ -1714,8 +1714,8 @@ header .logo a {
 	text-align: right;
 }
 #resume .timeline-header h3 { /* mexi aqui 2024*/ 
-	font-family: "raj-regular", sans-serif;
-	font-size: 2.0rem;
+	font-family: "raj-semibold", sans-serif;
+	font-size: 2.5rem;
 	margin-bottom: 0;
 }
 #resume .timeline-header p {
