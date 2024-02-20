@@ -1891,10 +1891,10 @@ header .logo a {
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
 	font-size: 1.2rem;
 	letter-spacing: .1rem;
-	color: #ffffff;
+	color: rgba(255, 255, 255, 0.6);
 }
 #portfolio .folio-item:hover .overlay {
-	background: #ffffff;
+	background: rgba(0, 0, 0, 0.8);
 }
 #portfolio .folio-item:hover .folio-item-cell {
 	left: 0;
@@ -1972,7 +1972,7 @@ header .logo a {
 	letter-spacing: .1rem;
 	display: block;
 	text-align: left;
-	/* color: #020317; */
+	rgba(0, 0, 0, 0.5);
 }
 .popup-modal .link-box {
 	width: 100%;
