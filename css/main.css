@@ -1972,12 +1972,12 @@ header .logo a {
 	letter-spacing: .1rem;
 	display: block;
 	text-align: left;
-	color: #020317;
+	/* color: #020317; */
 }
 .popup-modal .link-box {
 	width: 100%;
 	overflow: hidden;
-	background: #FFFFFF;
+	background: #020317;
 }
 .popup-modal .link-box a {
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
