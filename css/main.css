@@ -1932,7 +1932,7 @@ header .logo a {
  */
 .popup-modal {
 	max-width: 550px;
-	background: #FFFFFF;
+	background: #ffffff;
 	position: relative;
 	margin: 0 auto;
 }
@@ -1956,7 +1956,7 @@ header .logo a {
 	font-family: "raj-regular", sans-serif;
 	font-size: 1.4rem;
 	line-height: 2.5rem;
-	color: #FFFFFF; /*  da caixa do portfólio*/
+	color: #ffffff; /*  da caixa do portfólio*/
 }
 .popup-modal .description-box p {
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
@@ -1972,12 +1972,12 @@ header .logo a {
 	letter-spacing: .1rem;
 	display: block;
 	text-align: left;
-	color: #150E1C;
+	color: #020317;
 }
 .popup-modal .link-box {
 	width: 100%;
 	overflow: hidden;
-	background: #150E1C;
+	background: #020317;
 }
 .popup-modal .link-box a {
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
