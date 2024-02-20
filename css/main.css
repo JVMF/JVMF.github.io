@@ -1894,7 +1894,7 @@ header .logo a {
 	color: #ffffff;
 }
 #portfolio .folio-item:hover .overlay {
-	background: #150e1c70;
+	background: #020317;
 }
 #portfolio .folio-item:hover .folio-item-cell {
 	left: 0;
@@ -2140,7 +2140,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #150E1C url(../Images/Fundo.jpg) no-repeat center;
+	background: #020317 url(../Images/Fundo.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
