@@ -1894,7 +1894,7 @@ header .logo a {
 	color: #ffffff;
 }
 #portfolio .folio-item:hover .overlay {
-	background: #020317;
+	background: #ffffff;
 }
 #portfolio .folio-item:hover .folio-item-cell {
 	left: 0;
