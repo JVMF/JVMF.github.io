@@ -1946,12 +1946,12 @@ header .logo a {
 	padding: 1.8rem 3.6rem 3rem;
 }
 .popup-modal .description-box h4 {
-	font-family: "American Captain Patrius 02 FRE", sans-serif;
+	font-family: "raj-regular", sans-serif; /* "American Captain Patrius 02 FRE", sans-serif; */
 	font-size: 1.5rem;
 	line-height: 2.4rem;
 	margin-bottom: .6rem;
 }
-.popup-modal .description-box h3{
+.popup-modal .description-box h3 {
 	position: relative;
 	font-family: "raj-regular", sans-serif;
 	font-size: 1.4rem;
