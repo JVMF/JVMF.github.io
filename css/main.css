@@ -1845,7 +1845,14 @@ header .logo a {
 	-ms-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
 }
-
+#portfolio h2, .h02 { /* MUDEI AGORA */
+	font-family: "raj-regular", sans-serif;
+	color: #ffffff;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	margin-bottom: 2.1rem;
+	letter-spacing: .8rem;
+}
 #portfolio .overlay {
 	position: absolute;
 	top: 0;
