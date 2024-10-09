@@ -1747,9 +1747,9 @@ height="0" width="0" style="display:none;visibility:hidden"> </iframe> </noscrip
 				<h5>
 				Uma das minhas missões como físico médico especialista em radioterapia é executar planejamentos de tratamento, 
 				nas mais diversas técnicas. Abaixo separei alguns dos casos mais interessantes ou desafiadores de teleterapia
-				que eu planejei durante minha residência, tanto incluindo planejamentos diretos (3DCRT e arco dinâmico), quanto
-				inversos (IMRT e VMAT). Não restringi meu portfolio apenas aos planejamentos, inclui também outros projetos,
-				especialmente de programação que incluem inteligência artificial para saúde.
+				que eu planejei incluindo tanto planejamentos diretos (3DCRT e arco dinâmico), quanto inversos (IMRT e VMAT). 
+				Não restringi meu portfolio apenas aos planejamentos, inclui também outros projetos, especialmente de programação 
+				que incluem inteligência artificial para saúde.
 				</h5>
    		</div>   		
    	</div> <!-- /section-intro--> 
@@ -1760,6 +1760,62 @@ height="0" width="0" style="display:none;visibility:hidden"> </iframe> </noscrip
 
 	   		<div id="owl-slider-port" class="owl-carousel portfolio-list">
 	   		
+			<!-- VMAT EM MENINGEOMA FRONTOTEMPORAL -->
+		        <div id="folio-wrapper" class="block-1-1 block-mob-full stack">
+
+	        		<div class="bgrid folio-item">
+						<div class="item-wrap">
+		               	
+		               		<h5> PLANEJAMENTO DE <br> TRATAMENTO </h5> <br>
+
+			               	<img src="Images/Portfolio/Icons/RT_AI_ICON.png" alt="Artificial Intelligence Icon">
+			               	<a href="#modal-8" class="overlay">              		                  
+								<div class="folio-item-table">
+									<div class="folio-item-cell">
+										<h3 class="folio-title"> MENINGEOMA FRONTO TEMPORAL </h3>	     					    
+								    	<span class="folio-types">
+											PLANEJAMENTO VMAT MONACO TPS
+								      	</span>		     		
+								   	</div> 	                      	
+								</div>                    
+		                  	</a>
+		            	</div>
+	        		</div> <!-- /folio-item -->
+
+		            <!-- modal popups - begin ============================================================= -->
+		            
+		            <div id="modal-8" class="popup-modal slider mfp-hide">	
+
+						<div class="media">
+							<img src="Images/Portfolio/MENINGEOMA.png" alt="Glioma" />
+						</div>      	
+
+						<div class="description-box">
+					  		<h4> MENINGEOMA FRONTO TEMPORAL </h4>		      
+						  	<p><h3>
+								Paciente do sexo masculino, 28A, D39.2, neoplasia benigna das meninges. Prescrita dose de 5400 cGy (30 x 180 cGy)
+								em lesão residual fronto temporal esquerda. Devido a proximidade com vias ópticas (VVOOs, soma de nervos ópticos
+								e quiasma), foi priorizada descobertura local para obedecer aos constraints. A otimização foi feita usando 
+								Monaco TPS, versão 5.11.03, com PRV de VVOO no topo da lista de prioridades, para criar um zPTV virtual,
+								cropado dessa estrutura. Foi criada uma estrutura para normalização chamada zPTV_norm, cropando o PTV 30x180 cGy
+								do PRVs de VVOO com margem de 3 mm. Foi pedida cobertura de 100% da dose em 95% do volume do zPTV_Norm, garantindo 
+								cobertura adequada e obedecendo todos os constraints do sítio.
+						  	</p>
+
+							<div class="categories"> Planejamento VMAT Monaco </div>			               
+						</div>
+
+						<div class="link-box">
+							<a href="PDFs/MONACO_PLANCASE_MENINGEOMA.pdf"> Detalhes </a>
+							<a href="#" class="popup-modal-dismiss"> Fechar </a>
+						</div>		      
+
+					</div> <!-- /modal -->
+
+					<!-- modal popups - end ============================================================ -->
+
+		        </div> <!-- /portfolio-wrapper --> 
+			
 			<!-- VMAT EM LINFOMA NÃO DE HODGKIN, SEMI MANTO -->
 		        <div id="folio-wrapper" class="block-1-1 block-mob-full stack">
 
@@ -1843,7 +1899,7 @@ height="0" width="0" style="display:none;visibility:hidden"> </iframe> </noscrip
 		            <div id="modal-7" class="popup-modal slider mfp-hide">	
 
 						<div class="media">
-							<img src="Images/Portfolio/MENINGEOMA.png" alt="Glioma" />
+							<img src="Images/Portfolio/GLIOMA.png" alt="Glioma" />
 						</div>      	
 
 						<div class="description-box">
