@@ -1312,7 +1312,7 @@ header .logo a {
  */
  
 #intro {
-	background: #00091b url(../Images/Trubeam_teste.gif) no-repeat center bottom; /* (../Images/Intro.gif)*/
+	background: #00091b url(../Images/Cyber.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) (../Images/Exactrac) (../Images/Novalis.gif) */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
