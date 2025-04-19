@@ -1311,22 +1311,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
  
- /* #intro {
-	background: #00091b url(../Images/Exactrac.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) (../Images/Exactrac) (../Images/Novalis.gif) (../Images/Cyber.gif) */
-	/* -webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	background-attachment: fixed;
-	width: 100%;
-	height: 100%;
-	min-height: 720px;
-	display: table;
-	position: relative;
-	text-align: center;
-} */
-
 #intro {
-	background: #00091b url(../Images/Exactrac.gif) no-repeat center bottom;
+	background: #00091b url(../Images/Novalis.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) (../Images/Novalis.gif) */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1339,10 +1325,10 @@ header .logo a {
 	text-align: center;
 }
 
-/* Quando a tela tiver no máximo 768px (geralmente tablets/celulares), troca o fundo */
+/* Quando a tela tiver no máximo 768px (geralmente tablets/celulares), troca o fundo */ 
 @media (max-width: 768px) {
 	#intro {
-		background: #00091b url(../Images/Cyber.gif) no-repeat center bottom;
+		background: #00091b url(../Images/Exactrac.gif) no-repeat center bottom; /* (../Images/Cyber) (../Images/Exactrac)  */
 		background-size: cover;
 		background-attachment: fixed;
 	}
