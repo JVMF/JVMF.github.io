@@ -1325,7 +1325,7 @@ header .logo a {
 	text-align: center;
 }
 
-/* Quando a tela tiver no máximo 768px (geralmente tablets/celulares), troca o fundo */ 
+/* Para telas de no máximo 768px (tablets e celulares), o fundo será diferente> */ 
 @media (max-width: 768px) {
 	#intro {
 		background: #00091b url(../Images/Exactrac.gif) no-repeat center bottom; /* (../Images/Cyber) (../Images/Exactrac)  */
