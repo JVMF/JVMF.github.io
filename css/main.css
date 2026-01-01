@@ -1725,7 +1725,7 @@ header .logo a {
     display: flex;
     align-items: center;
     justify-content: center;
-	font-size: 2.1rem; /* VARIAR TAMANHO DO ICONE */
+	font-size: 2.2rem; /* VARIAR TAMANHO DO ICONE */
 }
 
 #resume .timeline-ico i::before {
@@ -2773,6 +2773,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
