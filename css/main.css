@@ -1699,23 +1699,22 @@ header .logo a {
 	position: relative;
 	padding-top: 1.5rem;
 }
-#resume .timeline-ico {
-	height: 4.8rem;
-	width: 4.8rem;
-	line-height: 4.8rem;
-	background: #00091b; /* COR: bolinha da timeline */
-	border-radius: 50%;
-	text-align: center;
-	color: #ffffff; /* COR: icone da timeline */
-	position: absolute;
-	left: 35%;
-	top: .9rem;
-	margin-left: -2.4rem;
-}
-#resume .timeline-ico i {
-	position: relative;
-	left: .05rem;
-	top: .2rem;
+
+/* ADICIONEI ISSO */ #resume .timeline-ico {
+    height: 4.8rem;
+    width: 4.8rem;
+    background: #00091b;
+    border-radius: 50%;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    left: 35%;
+    top: .9rem;
+    margin-left: -2.4rem;
 }
 
 #resume .timeline-header {
@@ -2758,3 +2757,4 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
