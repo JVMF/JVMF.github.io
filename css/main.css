@@ -1700,7 +1700,8 @@ header .logo a {
 	padding-top: 1.5rem;
 }
 
-/* ADICIONEI ISSO */ #resume .timeline-ico {
+/* ADD AQUI */
+#resume .timeline-ico {
     height: 4.8rem;
     width: 4.8rem;
     background: #00091b;
@@ -1716,6 +1717,19 @@ header .logo a {
     top: .9rem;
     margin-left: -2.4rem;
 }
+
+#resume .timeline-ico i {
+    position: static;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#resume .timeline-ico i::before {
+    display: block;
+}
+/* ADD AQUI */
 
 #resume .timeline-header {
 	float: left;
@@ -2757,4 +2771,5 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
