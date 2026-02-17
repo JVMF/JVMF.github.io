@@ -2165,7 +2165,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #020317 url(../Images/FundoPM.jpg) no-repeat center;
+	background: #020317 url(../Images/Fundo.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2773,6 +2773,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
