@@ -1312,7 +1312,7 @@ header .logo a {
  */
  
 #intro {
-	background: #00091b url(../Images/TESTE.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) */
+	background: #00091b url(../Images/Images.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2773,6 +2773,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
