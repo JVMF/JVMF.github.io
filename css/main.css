@@ -1312,7 +1312,7 @@ header .logo a {
  */
  
 #intro {
-	background: #00091b url(../Images/TESTE.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) */
+	background: #00091b url(../Images/Intro.gif) no-repeat center bottom; /* (../Images/Intro.gif) (../Images/Trubeam_teste.gif) */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1328,7 +1328,7 @@ header .logo a {
 /* Para telas de no máximo 768px (tablets e celulares), o fundo será diferente> */ 
 @media (max-width: 768px) {
 	#intro {
-		background: #00091b url(../Images/Cyber.gif) no-repeat center bottom; /* (../Images/Cyber) (../Images/Exactrac)  */
+		background: #00091b url(../Images/TESTE.gif) no-repeat center bottom; /* (../Images/Cyber) (../Images/Exactrac)  */
 		background-size: cover;
 		background-attachment: fixed;
 	}
@@ -2773,6 +2773,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
