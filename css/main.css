@@ -1059,7 +1059,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h5 {
 	color: #2a6eae;
-	font-size: 1.4rem; /* mexi aqui */
+	font-size: 1.4rem; /* mexi aqui 1.4 era o antigo*/
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
 	letter-spacing: .4rem;
@@ -2213,7 +2213,7 @@ header .logo a {
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #2A75AE;
+	color: #FFFFFF;
 }
 .services-list h3 {
 	color: #FFFFFF;
@@ -2773,6 +2773,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
