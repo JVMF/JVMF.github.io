@@ -2784,12 +2784,56 @@ footer .copyright span:last-child::after {
 	font-size: 1.6rem;
 	line-height: inherit;
 }
+
+
+/* INÍCIO DO QUE EU ADD */
+
+/* ===============================
+   HERO - GOOGLE / MIT STYLE
+================================ */
+
+/* Reset completo do hero antigo */
+.intro-content h2,
+.intro-content h3,
+.intro-content h4,
+.intro-content h5 {
+    all: unset;
+}
+
+/* Nome principal */
+.intro-name {
+    display: block;
+    font-family: "raj-medium", sans-serif;
+    font-size: 4.5rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    letter-spacing: 0.05rem;
+    margin-bottom: 1rem;
+}
+
+/* Subtítulo */
+.intro-subtitle {
+    font-family: "raj-light", sans-serif;
+    font-size: 1.8rem;
+    color: rgba(255, 255, 255, 0.75);
+    letter-spacing: 0.05rem;
+}
+
+/* Ajuste fino de posicionamento */
+.intro-content {
+    transform: translateY(-1rem);
+}
+
+/* FINAL DO QUE EU ADD */
+
+
 /*
 #go-top a:hover {
 	background: #2A75AE;
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
