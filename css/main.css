@@ -2793,8 +2793,6 @@ footer .copyright span:last-child::after {
 ================================ */
 
 /* Reset completo do hero antigo */
-.intro-content h2,
-.intro-content h3,
 .intro-content h4,
 .intro-content h5 {
     all: unset;
@@ -2833,6 +2831,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
