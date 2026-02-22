@@ -1380,7 +1380,7 @@ header .logo a {
 .intro-content h4 {
 	color: #FFFFFF;
 	font-family: "raj-regular", serif; /* PRINCIPAL */
-	font-weight: normal; /* força regular */
+	font-weight: 300; /* força negrito */
 	font-size: 2.0rem; 									
 	line-height: 1.10; /* mexi aqui */
 	max-width: 9000px;
@@ -2790,6 +2790,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
