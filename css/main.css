@@ -1057,6 +1057,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 2.1rem;
 	letter-spacing: .1rem;
 }
+
 .section-intro h5 {
 	color: #2a6eae;
 	font-size: 1.4rem; /* mexi aqui 1.4 era o antigo*/
@@ -1375,6 +1376,21 @@ header .logo a {
 	letter-spacing: .3rem;
 	text-shadow: 0 0 0px #150E1C;
 }
+
+.intro-content h4 {
+	color: #FFFFFF;
+	font-family: "raj-regular", serif; /* PRINCIPAL */
+	font-size: 2.0rem; 									
+	line-height: 1.10; /* mexi aqui */
+	max-width: 9000px;
+	margin-top: 0rem;
+	margin-bottom: 0rem;
+	margin-left: auto;
+	margin-right: auto;
+	letter-spacing: .1rem;
+	text-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
+}
+
 .intro-content h5 {
 	color: #238ff5; /* letra do fundo do GIF */ 
 	font-family: "American Captain Patrius 02 FRE", sans-serif;
@@ -2773,6 +2789,7 @@ footer .copyright span:last-child::after {
 } 
 */
 /*# sourceMappingURL=main.css.map */
+
 
 
 
